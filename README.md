@@ -1,12 +1,13 @@
-Projeto de Criacao de Login feito por REACT
+Projeto de Criação de Login por REACT
 ------
 
 Executa na Terminal:
  - `npm start` para começa um servidor de local: http://localhost:3000/
 
 
-Digita um usuário e senha para alterar se validar. 
-Se 2 campos estivesse em branco, será padrão. 
+Digita um usuário e uma senha para alterar se validaram. 
+
+Se 2 campos estivessem em branco, serão padrões. 
 
 
 Autor: Ivan Diesel
